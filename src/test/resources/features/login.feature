@@ -1,4 +1,4 @@
-Feature: Login Page Feature for Paylink Solutions Website
+Feature: Login Page Feature for PayLink Solutions Website
 
   Scenario Outline: Valid login
     Given the user navigates to the website
@@ -9,5 +9,5 @@ Feature: Login Page Feature for Paylink Solutions Website
 
     Examples:
     | username            | password     |
-    | desolakin@gmail.com | Iyanuoluwa1# |
+    | desolakin@gmail.com | Yetunde_4    |
     | 07481343414         | Yetunde_3    |
